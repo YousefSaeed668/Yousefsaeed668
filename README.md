@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
-</div>
+
 
 ###
 
@@ -102,5 +100,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/yousefsaeed668/yousefsaeed668/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"  />
+</div>
 
-###
